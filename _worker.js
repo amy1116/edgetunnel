@@ -27,7 +27,7 @@ let enableSocks = false;
 // 虚假uuid和hostname，用于发送给配置生成服务
 let fakeUserID ;
 let fakeHostName ;
-let noTLS = 'false'; 
+let noTLS = 'true'; 
 const expire = 4102329600;//2099-12-31
 let proxyIPs;
 let addresses = [];
